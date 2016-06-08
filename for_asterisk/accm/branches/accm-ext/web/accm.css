@@ -1,0 +1,73 @@
+A {
+font-family: Tahoma;
+font-size: 15px;
+font-style: bold;
+color: #000;
+text-decoration: none;
+}
+
+A:hover {
+font-family: Tahoma;
+font-size: 15px;
+font-style: bold;
+color: #888;
+text-decoration: none;
+}
+
+
+BODY {
+font-family: Arial;
+font-size: 14px;
+}
+
+TABLE {
+border: 0px;
+padding: 0px;
+margin: 10px;
+border-collapse: collapse;
+}
+
+TR {
+border: 0px solid;
+padding: 0px;
+margin: 0px;
+background: #fff;
+}
+
+.button {
+background: #ddd;
+padding: 1px;
+}
+
+.col {
+border-top: 1px solid;
+padding: 5px;
+padding-left: 10px;
+margin: 2px;
+background: #ccc;
+}
+
+.col1 {
+border-top: 1px solid;
+padding: 5px;
+padding-left: 10px;
+margin: 0px;
+background: #fff;
+}
+
+TD {
+border: 0px solid;
+padding: 3px;
+margin: 0px;
+}
+
+TH {
+border: 0px solid;
+padding: 2px;
+margin: 3px;
+background: #ccc;
+}
+
+DIV {
+border: 0px solid;
+}

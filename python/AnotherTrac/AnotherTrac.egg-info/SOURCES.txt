@@ -1,0 +1,9 @@
+setup.py
+AnotherTrac.egg-info/PKG-INFO
+AnotherTrac.egg-info/SOURCES.txt
+AnotherTrac.egg-info/dependency_links.txt
+AnotherTrac.egg-info/entry_points.txt
+AnotherTrac.egg-info/not-zip-safe
+AnotherTrac.egg-info/top_level.txt
+anothertrac/__init__.py
+anothertrac/anothertrac.py

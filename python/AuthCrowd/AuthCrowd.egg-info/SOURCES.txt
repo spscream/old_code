@@ -1,0 +1,9 @@
+setup.py
+AuthCrowd.egg-info/PKG-INFO
+AuthCrowd.egg-info/SOURCES.txt
+AuthCrowd.egg-info/dependency_links.txt
+AuthCrowd.egg-info/entry_points.txt
+AuthCrowd.egg-info/not-zip-safe
+AuthCrowd.egg-info/top_level.txt
+authcrowd/__init__.py
+authcrowd/crowd_store.py

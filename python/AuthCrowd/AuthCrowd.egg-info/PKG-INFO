@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: AuthCrowd
+Version: 0.0
+Summary: Plugin provides atlassian crowd integration
+Home-page: http://www.spscream.org
+Author: Alexander Malaev
+Author-email: amalaev@begun.ru
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: trac plugin
+Platform: UNKNOWN

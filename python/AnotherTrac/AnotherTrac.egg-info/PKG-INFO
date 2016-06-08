@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: AnotherTrac
+Version: 0.0
+Summary: This plugin is intended to create a new ticket in "another_trac" when it is necessary assign ticket to "another_trac_user" in trac.
+Home-page: UNKNOWN
+Author: Alexander Malaev
+Author-email: amalaev@begun.ru
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: trac plugin
+Platform: UNKNOWN
